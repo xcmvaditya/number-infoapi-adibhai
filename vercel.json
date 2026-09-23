@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "public": true,
+  "cleanUrls": true,
+  "functions": {
+    "api/*.js": {
+      "maxDuration": 30
+    }
+  },
+  "rewrites": [
+    { "source": "/number", "destination": "/api/number" },
+    { "source": "/health", "destination": "/api/health" },
+    { "source": "/info", "destination": "/api/info" }
+  ]
+}
