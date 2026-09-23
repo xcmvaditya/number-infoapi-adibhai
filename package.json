@@ -1,0 +1,14 @@
+{
+  "name": "aditya-number-api",
+  "version": "1.0.0",
+  "description": "Aditya Number Info API — Developed by Adibhai",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "author": "Adibhai",
+  "license": "MIT"
+}
