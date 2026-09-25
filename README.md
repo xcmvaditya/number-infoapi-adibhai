@@ -1,3 +1,8 @@
+https://number-infoapi-adibhai-npue.vercel.app/api/number?number=9876543210
+
+Number info api WORKNG
+https://number-infoapi-adibhai-npue.vercel.app/
+
 # 🔍 Aditya Number Info API
 👑 Developed by Adibhai
 
